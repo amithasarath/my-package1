@@ -13,10 +13,10 @@ develop = false
 [package.source]
 type = "git"
 url = "https://github.com/amithasarath/my-helper-kit.git"
-reference = "27fe2284214b109e1fe44fe96c5578a974ec0dc4"
-resolved_reference = "27fe2284214b109e1fe44fe96c5578a974ec0dc4"
+reference = "2c3b2af325952704bce0a68cedbd9cd0da306199"
+resolved_reference = "2c3b2af325952704bce0a68cedbd9cd0da306199"
 
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "067c81b6ffb91828a21e5042e1da4ab5b453e32613c5ea55208b64a31ba3b243"
+content-hash = "9539fa070ae7e38bbae9b5df8748c26b89ae2fda2402276a130d549d6c0f393f"
