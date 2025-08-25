@@ -10,8 +10,11 @@ requires-python = ">=3.13"
 dependencies = [
 ]
 
+[tool.poetry]
+package-mode = true
+
 [tool.poetry.dependencies]
-my-helper-kit = {git = "https://github.com/amithasarath/my-helper-kit", rev="7cdac12ff01c2f4766a176e94af75046284475c7" }
+my-helper-kit = {git = "https://github.com/amithasarath/my-helper-kit.git", rev = "27fe2284214b109e1fe44fe96c5578a974ec0dc4" }
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
